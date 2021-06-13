@@ -9,7 +9,7 @@ class Application
 
     else
       resp.write "Path Not Found"
-        jahdsfljhadkjfhauehouh
+        
     end
 
     resp.finish
