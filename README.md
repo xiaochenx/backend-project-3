@@ -1,6 +1,7 @@
 # backend-project-3
 
 Project Overview
+
 The idea of this app is to allow people to keep track of meaningful and useful gift ideas they have for their loved ones, so they don't just pick up some useless tchotchkes in a gas station on the big day.
 
 How to use
